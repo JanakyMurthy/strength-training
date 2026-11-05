@@ -23,7 +23,7 @@ Notes on muscle group-to-exercise mapping. I have been changing my workouts too 
 
 ## Weekly Schedule
 
-> [!IMPORTANT] Weekly Workout Schedule
+> Weekly Workout Schedule
 >
 > | Day | Activity |
 > |---|---|
