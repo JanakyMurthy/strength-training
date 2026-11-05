@@ -21,80 +21,116 @@ Notes on muscle group-to-exercise mapping. I have been changing my workouts too 
 | **Calves** | Standing and seated calf raises | — |
 | **Core** | Crunches, leg raises, planks | — |
 
+## Weekly Schedule
 
-## 3-Day Dumbbell Workout Split & Recovery Protocol
+> [!IMPORTANT] Weekly Workout Schedule
+>
+> | Day | Activity |
+> |---|---|
+> | **Monday** | 🏋️ Upper Body |
+> | **Tuesday** | 🧘 Mobility & Flexibility |
+> | **Wednesday** | 🏋️ Lower Body & Core |
+> | **Thursday** | 💤 Rest |
+> | **Friday** | 🏋️ Full Body |
+> | **Saturday** | 🧘 Mobility & Flexibility |
+> | **Sunday** | 💤 Rest |
+>
+> **3 strength sessions · 2 optional mobility sessions · 2 rest days**
 
-**Day 1: Upper Body Focus**
 
-* **Chest:** Incline wall push-ups (or standard push-ups) — 3 sets
-* **Back (Vertical):** Dumbbell floor pullovers — 3 sets
-* **Back (Horizontal):** Dumbbell rows — 3 sets
-* **Shoulders (Front):** Seated dumbbell overhead press — 3 sets
-* **Shoulders (Side):** Lateral raises — 3 sets
-* **Biceps:** Dumbbell bicep curls — 3 sets
-* **Triceps:** Dumbbell overhead triceps extensions — 3 sets
+## Three-Day Dumbbell Workout Split
 
-**Day 2: Lower Body & Core Focus**
+### Day 1 — Upper Body
 
-* **Quads & Glutes:** Dumbbell goblet squats — 3 sets
-* **Hamstrings (Hip Extension):** Dumbbell Romanian deadlifts (RDL) — 3 sets
-* **Quads (Unilateral):** Dumbbell lunges — 3 sets per leg
-* **Hamstrings (Knee Flexion):** Lying dumbbell leg curls — 3 sets
-* **Calves:** Standing calf raises — 3 sets
-* **Core:** Planks — 3 sets (hold until challenging)
-* **Core:** Crunches — 3 sets
+| Exercise | Sets | Reps |
+|---|---:|---:|
+| Push-ups (wall, incline, or standard) | 3 | 6–12 |
+| Dumbbell rows | 3 | 6–10 |
+| Dumbbell floor pullovers | 2 | 8–12 |
+| Seated dumbbell overhead press | 3 | 6–10 |
+| Dumbbell lateral raises | 2 | 8–12 |
+| Dumbbell biceps curls | 3 | 8–12 |
+| Dumbbell overhead triceps extensions | 3 | 8–12 |
 
-**Day 3: Full Body (Compound Focus)**
+### Day 2 — Lower Body & Core
 
-* **Quads/Glutes:** Dumbbell goblet squats (or lunges) — 3 sets
-* **Glutes/Hamstrings:** Dumbbell glute bridge — 3 sets
-* **Chest:** Dumbbell floor press — 3 sets
-* **Back:** Dumbbell rows — 3 sets
-* **Shoulders (Rear):** Dumbbell reverse fly — 3 sets
-* **Arms (Brachialis):** Dumbbell hammer curls — 3 sets
-* **Core:** Leg raises — 3 sets
+| Exercise | Sets | Reps |
+|---|---:|---:|
+| Dumbbell goblet squats | 3 | 6–10 |
+| Dumbbell Romanian deadlifts | 3 | 6–10 |
+| Dumbbell lunges | 3 | 6–10/leg |
+| Sliding hamstring curls | 2 | 6–12 |
+| Standing calf raises | 3 | 8–12 |
+| Planks | 3 | 20–45 sec |
+| Crunches | 2 | 8–12 |
+
+### Day 3 — Full Body
+
+| Exercise | Sets | Reps |
+|---|---:|---:|
+| Dumbbell goblet squats (or lunges) | 3 | 6–10 |
+| Dumbbell floor press | 3 | 6–10 |
+| Dumbbell rows | 3 | 6–10 |
+| Dumbbell glute bridge | 3 | 8–12 |
+| Dumbbell reverse fly | 2 | 8–12 |
+| Dumbbell hammer curls | 3 | 8–12 |
+| Lying leg raises | 2 | 6–12 |
+
+*Start with 2 sets per exercise if needed*
 
 ---
 
-### 2. Warm-Up Protocol (Dynamic)
+## Progressive Overload
 
-**When:** 3 to 5 minutes immediately *before* starting Day 1, Day 2, and Day 3.
-**Why:** Increases joint lubrication, raises core temperature, and prepares the nervous system for lifting.
-**What to do:**
-
-* **General (All Days):** 1-2 minutes of brisk marching in place or light jumping jacks to elevate heart rate.
-
-* **Upper Body Prep (Days 1 & 3):**
-* Arm circles (10 forward, 10 backward).
-* Torso twists (10 per side).
-* Wall slides (stand against a wall and slide arms up and down like a snow angel) to activate the upper back.
+1. Start at the lower end of the repetition range.
+2. Gradually increase repetitions with the same weight.
+3. When all sets reach the upper limit with good form, increase weight.
+4. Repeat.
 
 
-* **Lower Body Prep (Days 2 & 3):**
-* Forward and backward leg swings (10 per leg).
-* Side-to-side leg swings (10 per leg).
-* 10 slow bodyweight squats focusing on depth.
+## Warm-Up (Dynamic)
+
+**Duration:** 5–8 minutes before strength training.
+
+**General — All Days**
+- Brisk marching or light jumping jacks — 1–2 min
+
+**Upper Body — Days 1 & 3**
+- Arm circles — 10 forward, 10 backward
+- Torso twists — 10/side
+- Wall slides — 10 reps
+
+**Lower Body — Days 2 & 3**
+- Forward/backward leg swings — 10/leg
+- Side-to-side leg swings — 10/leg
+- Bodyweight squats — 10 reps
+
+If needed, perform 1–2 lighter practice sets before lifts.
+
 ---
 
-### 3. Cooldown Protocol (Static Stretching)
+## Cooldown (Static Stretching)
 
-**When:** 3 to 5 minutes immediately *after* finishing strength workouts on Day 1, Day 2, and Day 3.
-**Why:** Lowers the heart rate, kickstarts the recovery process, and lengthens the specific muscle fibers that were just contracted.
-**What to do (Hold each stretch for 30 seconds per side):**
+**Duration:** Optional, 3–5 minutes after training.
 
-* **Upper Body Days:**
-* Doorway chest stretch (place forearm on a doorframe and gently turn away).
-* Overhead triceps stretch (pull elbow behind your head).
-* Cross-body shoulder stretch.
+**Upper Body**
+- Doorway chest stretch — 20–30 sec/side
+- Overhead triceps stretch — 20–30 sec/side
+- Cross-body shoulder stretch — 20–30 sec/side
 
+**Lower Body**
+- Standing quadriceps stretch — 20–30 sec/side
+- Seated hamstring stretch — 20–30 sec
+- Wall calf stretch — 20–30 sec/side
 
-* **Lower Body Days:**
-* Standing quad stretch (pull heel to glute).
-* Seated hamstring stretch (sit on the floor and reach for your toes).
-* Wall calf stretch (press heel into the floor while leaning against a wall).
+---
 
-### 4. Mobility and flexibility (non-strength training days)
+## Mobility & Flexibility
 
-Try to do at least 2 days per week
+**Frequency:** Try 2 days/week (Tuesday and Saturday).
 
-https://www.youtube.com/watch?v=I9ZRSpLTSu8&t=828s
+**Duration:** 20 minutes.
+
+**Routine:** [Mobility and Flexibility Video](https://www.youtube.com/watch?v=I9ZRSpLTSu8&t=828s)
+
+---
