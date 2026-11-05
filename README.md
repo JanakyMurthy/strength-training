@@ -97,7 +97,3 @@ Notes on muscle group-to-exercise mapping. I have been changing my workouts too 
 Try to do at least 2 days per week
 
 https://www.youtube.com/watch?v=I9ZRSpLTSu8&t=828s
-
-
-sitting.
-* **Child's Pose:** Hold for 1 to 2 minutes. Focus entirely on breathing deeply into the sides of your ribcage to down-regulate your nervous system.
