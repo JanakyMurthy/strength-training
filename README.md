@@ -1,6 +1,6 @@
 # strength-training
 
-Notes on muscle group-to-exercise mapping. I have been changing my workouts too frequently. This is an attempt to become more systematic with my strength training.
+Notes on muscle group-to-exercise mapping. I have been changing my workouts too frequently. This is an attempt to make my strength training routine more systematic.
 
 | Muscle group | Exercises | Home equivalent (where needed) |
 | --- | --- | --- |
@@ -62,7 +62,8 @@ Notes on muscle group-to-exercise mapping. I have been changing my workouts too 
 **Why:** Increases joint lubrication, raises core temperature, and prepares the nervous system for lifting.
 **What to do:**
 
-* **General (All Days):** 1-2 minutes of brisk marching in place or light jumping jacks to elevate your heart rate.
+* **General (All Days):** 1-2 minutes of brisk marching in place or light jumping jacks to elevate heart rate.
+
 * **Upper Body Prep (Days 1 & 3):**
 * Arm circles (10 forward, 10 backward).
 * Torso twists (10 per side).
